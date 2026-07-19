@@ -30,6 +30,7 @@ BlogApp is a full-stack MERN blogging platform: a React front end talking to an 
 
 ## 🌐 Live Demo
 
+
 | | URL |
 |---|---|
 | **Frontend** | [blogapp-eight-xi.vercel.app](https://blogapp-eight-xi.vercel.app) |
