@@ -5,11 +5,12 @@ export default function Footer() {
     <footer className="bg-gray-900 text-white py-4 mt-10 border-t-4 border-gradient-to-r from-purple-400 to-blue-400 relative">
       <span className="text-xs mt-2 md:mt-0 flex items-center gap-2 justify-end w-full pr-6">
         Made with{" "}
-        <span className="text-red-400 text-base animate-pulse">❤️</span> using{" "}
+        <span className="text-red-400 text-base animate-pulse">❤️</span> by{" "}
+        <span className="text-purple-400">Satender Sanwal</span> using{" "}
         <span className="text-purple-400">React</span> &amp;{" "}
         <span className="text-purple-400">Tailwind CSS</span>
         <a
-          href="https://github.com/sumitksr"
+          href="https://github.com/Satendersanwal"
           target="_blank"
           rel="noopener noreferrer"
           className="ml-2 hover:text-blue-400 transition-colors duration-300"
@@ -23,7 +24,7 @@ export default function Footer() {
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/sumitksr/"
+          href="https://www.linkedin.com/in/satender-sanwal-27b698343/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-400 transition-colors duration-300"

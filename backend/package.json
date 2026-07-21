@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumitksr/file-upload.git"
+    "url": "git+https://github.com/Satendersanwal/BlogApp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Satender Sanwal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumitksr/file-upload/issues"
+    "url": "https://github.com/Satendersanwal/BlogApp/issues"
   },
-  "homepage": "https://github.com/sumitksr/file-upload#readme",
+  "homepage": "https://github.com/Satendersanwal/BlogApp#readme",
   "description": ""
 }

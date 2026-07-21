@@ -88,7 +88,7 @@ BlogApp is a full-stack MERN blogging platform: a React front end talking to an 
 | Tooling | `nodemon` (backend dev reload), Create React App / `react-scripts` |
 | Deployment | Vercel (frontend), Render (backend) |
 
-> `react-redux` is listed in `frontend/package.json` — a holdover from the [react-tailwind-css-starter-pack](https://github.com/thepranaygupta/react-tailwind-css-starter-pack) template this project was bootstrapped from — but there's no store or slice wired up. Auth state is actually managed with React Context (`src/context/AuthContext.js`).
+> `react-redux` is listed in `frontend/package.json`, but there is no store or slice wired up. Auth state is managed with React Context (`src/context/AuthContext.js`).
 
 ## 📁 Project Structure
 
@@ -143,7 +143,7 @@ BlogApp/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/sumitksr/BlogApp.git
+git clone https://github.com/Satendersanwal/BlogApp.git
 cd BlogApp
 ```
 
@@ -358,7 +358,9 @@ None of these block local development or the features described above — they'r
 
 Licensing isn't fully consistent in this repo yet: `backend/package.json` declares `ISC`, `backend/readme.md` states `MIT`, and there's no `LICENSE` file at the root. Pick one — MIT is the conventional choice for a project like this — and add a `LICENSE` file to make it official.
 
-## 👤 Author
+## 👤 Project Owner
 
-**Sumit Kumar**
-[GitHub @sumitksr](https://github.com/sumitksr) · [LinkedIn](https://www.linkedin.com/in/sumitksr/)
+**Satender Sanwal**
+[GitHub @Satendersanwal](https://github.com/Satendersanwal) · [LinkedIn](https://www.linkedin.com/in/satender-sanwal-27b698343/)
+Email: satendersanwal15@gmail.com
+Mobile: +91-9728358784

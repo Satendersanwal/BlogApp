@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/Satendersanwal/BlogApp.git"
   },
-  "author": "Pranay Gupta",
+  "author": "Satender Sanwal",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/Satendersanwal/BlogApp/issues"
   },
   "scripts": {
     "start": "react-scripts start",
